@@ -253,3 +253,5 @@ Key Features
 ✅ Social Score Sharing
 Short App Description
 Quiz Platform with Leaderboard is an engaging educational and competitive mobile application that enables users to participate in category-based quizzes, earn points, unlock achievements, and compete against other players through a real-time leaderboard system. The platform includes quiz categories, timed challenges, performance analytics, ranking rewards, achievement badges, and user profiles, creating an interactive and gamified learning experience.
+
+<img width="1536" height="1024" alt="4" src="https://github.com/user-attachments/assets/dd4eab26-5efa-49e6-907a-06b8ceda75fc" />
